@@ -5,26 +5,11 @@
 <br>
 <img src="https://github.com/gayulz/BackEndRoadMap/assets/109029219/18a1483e-6659-446b-af66-0776e1c51c5d">
 </p>
+<hr>
+<h1> 🐳 Section 2 </h1>
+<p>
 
-<h1 align="center">  👩‍👧‍👧 Participant Name 👨‍👦‍👦 </h1>
-<p align="center"> 한현희 한예종 김가율 권병창 김성도 이소연 </p>
-<br>
-<h3> 📌 Section 01 </h3>
-<h3> 📌 Section 02 </h3>
-<h3> 📌 Section 03 </h3>
-<h3> 📌 Section 04 </h3>
-<h3> 📌 Section 05 </h3>
-<h3> 📌 Section 06 </h3>
-<h3> 📌 Section 07 </h3>
-<h3> 📌 Section 08 </h3>
-<h3> 📌 Section 09 </h3>
-<h3> 📌 Section 10 </h3>
-<h3> 📌 Section 11 </h3>
-<h3> 📌 Section 12 </h3>
-<h3> 📌 Section 13 </h3>
-<h1 align="center"> 
-  <hr>
-  ⛳️ BackEnd Road Map 🗺️
- <hr>
-  <img width="4832" alt="Untitled (2)" src="https://github.com/gayulz/BackEndRoadMap/assets/109029219/d38aa4bc-0d92-485d-9e8a-294e5eacc963">
-</h1>
+
+> 스터디 참여자 : 
+
+</p>
