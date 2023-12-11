@@ -6,7 +6,7 @@
 <img src="https://github.com/gayulz/BackEndRoadMap/assets/109029219/18a1483e-6659-446b-af66-0776e1c51c5d">
 </p>
 
-<h1 align="center">  👩‍👧‍👧 Participant Name 👨‍👦‍👦 </h1>
+<h1 align="center">  👩‍👧‍👧 Study Member Name 👨‍👦‍👦 </h1>
 <p align="center"> 한현희 한예종 김가율 권병창 김성도 이소연 이영주 김혜원 </p>
 <br>
 <h3> 📌 Section 01 </h3>
