@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">  👩‍👧‍👧 Participant Name 👨‍👦‍👦 </h1>
-<p align="center"> 한현희 한예종 김가율 권병창 김성도 이소연 </p>
+<p align="center"> 한현희 한예종 김가율 권병창 김성도 이소연 이영주 김혜원 </p>
 <br>
 <h3> 📌 Section 01 </h3>
 <h3> 📌 Section 02 </h3>
