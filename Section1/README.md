@@ -6,7 +6,7 @@
 <img src="https://github.com/gayulz/BackEndRoadMap/assets/109029219/18a1483e-6659-446b-af66-0776e1c51c5d">
 </p>
 <hr>
-<h1> 🐳 참여 주제 🐳 </h1>
+<h1> 🐳 Section 1 🐳 </h1>
 <p>
   한현희 : DNS와 동작 원리 <br>
   한예종 :  <br>
