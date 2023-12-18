@@ -8,10 +8,8 @@
 <hr>
 <h1> 🐳 Section 2 🐳 </h1>
 <p>
-<p>김성도 : 프로그램 언어 특징 </p>
 <p>이소연 : git</p>
 <p>한현희 : 비관계형 DB</p>
-<p>권병창 : 관계형 DB</p>
 <p>이영주 : OS - thread,memory 관리,프로세스 간 통신</p>
 <p>김혜원 : OS - terminal,os동작원리,프로세스 관리</p>
 <p>한예종 : OS </p> 
