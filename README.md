@@ -7,13 +7,16 @@
 </p>
 
 <h1 align="center">  👩‍👧‍👧 Study Member Name 👨‍👦‍👦 </h1>
-<p align="center"> 한현희 한예종 김가율 권병창 김성도 이소연 이영주 김혜원 </p>
+<p align="center"> 한현희 한예종 김가율 이소연 이영주 김혜원 </p>
 <br>
 <h3> 📌 Section 01 </h3>
 <hr>
 <p> ✅ 2023/12/11 </p> 
 <p> ✅ 네트워크 세션 각자 1개씩 주제 정리 및 발표</p>
 <h3> 📌 Section 02 </h3>
+<br>
+<p> ✅ 2023/12/18 </p> 
+<p> ✅ 네트워크/운영체제/데이터베이스 각자 1개씩 주제 정리 및 발표</p>
 <h3> 📌 Section 03 </h3>
 <h3> 📌 Section 04 </h3>
 <h3> 📌 Section 05 </h3>
